@@ -1,12 +1,12 @@
 import sys
 def cat():
-    print('Meow!')
+    print('meow!')
 
 def default():
-    print('Hello')
+    print('hello')
 
 def dog():
-    print('Woof!')
+    print('woof!')
 
 def main():
 
